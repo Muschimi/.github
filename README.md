@@ -1,5 +1,3 @@
-# Muschimi
-![preview](bg.png)
-
+#.github
 
 
