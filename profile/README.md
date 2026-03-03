@@ -1,1 +1,2 @@
-![bg.png](https://github.com/Muschimi/Muschimi/blob/main/bg.png)
+[![bg.png](https://github.com/Muschimi/Muschimi/blob/main/bg.png)
+](https://github.com/Muschimi/Muschimi)
